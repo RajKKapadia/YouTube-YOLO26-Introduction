@@ -10,3 +10,6 @@ wheels/
 .venv
 
 yolo*.pt
+mobileclip2_b.ts
+
+outputs/
